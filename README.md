@@ -1,5 +1,5 @@
 # Funcionamiento de webhook para la integración entre GitHub y Slack
-Prueba
+Pru
 ```https://docs.github.com/es/webhooks-and-events/webhooks/webhook-events-and-payloads ```
 
 Un webhook es una herramienta de integración que permite la transmisión de información en tiempo real entre dos aplicaciones o servicios en línea. En este caso, el webhook se basa en la transmisión de información relacionada con eventos en GitHub que se publiquen en Slack.
